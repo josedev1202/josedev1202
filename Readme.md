@@ -4,10 +4,15 @@
 
 ## :sassy_man:  About me
 :heavy_check_mark: I'm a Python / Javascript expert.
+
 :heavy_check_mark: I'm a seasoned React.js engineer with 7 years of product development experience
+
 :heavy_check_mark: I'm proficient in backend development using Django/FastAPI/Flask and Node.js/Express.js
+
 :heavy_check_mark: I'm a dedicated team player
+
 :heavy_check_mark: I love challenges and like to find out the best solution.
+
 :heavy_check_mark: I'm a software architect with rich software design experience
 
 <br>
